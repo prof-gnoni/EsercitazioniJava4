@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="05 Teoria - Esempi sulle stringhe" type="Application" factoryName="Application" folderName="2 - Stringhe">
+    <option name="MAIN_CLASS_NAME" value="it.levi.cap2_stringhe.p1_teoria.EsempiStringhe" />
+    <module name="EsercitazioniJava4" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="it.levi.cap2_stringhe.p1_teoria.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

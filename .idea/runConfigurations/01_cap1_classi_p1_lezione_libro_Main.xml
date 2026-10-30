@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01 Lezione - Libro" type="Application" factoryName="Application" folderName="1 - Classi e oggetti">
+    <option name="MAIN_CLASS_NAME" value="it.levi.cap1_classi.p1_lezione_libro.Main" />
+    <module name="EsercitazioniJava4" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="it.levi.cap1_classi.p1_lezione_libro.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
